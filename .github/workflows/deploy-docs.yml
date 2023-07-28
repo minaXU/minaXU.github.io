@@ -24,7 +24,7 @@ jobs:
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: 8.6.10
+          version: latest
           run_install: true
 
       - name: 设置 Node.js
