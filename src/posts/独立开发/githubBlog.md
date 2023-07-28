@@ -10,8 +10,6 @@ tag:
 
 # 使用Github搭建个人博客
 
-<!-- more -->
-
 #### 1. 创建Github账号和仓库
 
 - [github官方指导](https://docs.github.com/zh/pages/quickstart)
@@ -37,5 +35,5 @@ tag:
 - 使用 Waline + LeanCloud + Vercel
 - [LeanCloud 设置](https://plugin-comment2.vuejs.press/zh/guide/waline.html)
 - [Vercel部署](https://waline.js.org/guide/deploy/vercel.html)
-- 修改项目中的
+- 修改项目中 config.ts  theme.plugins.comment.serverURL 为上一步点击visit后打开的地址
 
