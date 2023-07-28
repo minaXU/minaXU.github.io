@@ -30,5 +30,12 @@ tag:
 - 现在到自己的仓库 `<USERNAME>.github.io`查看Actions，这时基本已经成功了, 分支gh-pages已经有了最新的编译后的静态文件，去settings -> pages 修改 Build and deployment -> Branch ,改为 gh-pages
 - 访问 https://\<USERNAME\>.github.io 已经可以成功  部署完成！
 
-#### 4. 定制
+#### 4. 修改网站布局
+
+#### 5. 接入评论
+
+- 使用 Waline + LeanCloud + Vercel
+- [LeanCloud 设置](https://plugin-comment2.vuejs.press/zh/guide/waline.html)
+- [Vercel部署](https://waline.js.org/guide/deploy/vercel.html)
+- 修改项目中的
 
