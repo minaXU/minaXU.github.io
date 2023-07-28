@@ -37,3 +37,5 @@ tag:
 - [Vercel部署](https://waline.js.org/guide/deploy/vercel.html)
 - 修改项目中 config.ts  theme.plugins.comment.serverURL 为上一步点击visit后打开的地址
 
+#### 6. 接入搜索
+

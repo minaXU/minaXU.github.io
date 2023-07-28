@@ -20,7 +20,8 @@ export default hopeTheme(
     docsDir: "src",
 
     // navbar
-    navbar: false,
+    navbar: navbar,
+    navbarLayout: { start: ["Brand"], end: ["Search"] },
 
     // sidebar
     sidebar,

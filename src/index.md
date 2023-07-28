@@ -3,8 +3,8 @@ home: true
 custom: true
 layout: BlogHome
 title: 博客主页
-heroImage: /logo.svg
-# heroText: 你博客的名称
+heroImage: null
+heroText: null
 # bgImage: /assets/images/cover3.jpg
 heroFullScreen: false
 tagline: 分享技术，交流想法
