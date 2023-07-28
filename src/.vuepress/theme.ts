@@ -8,10 +8,7 @@ const MR_HOPE_AVATAR =
 export default hopeTheme({
   hostname: "https://minaxu.github.io",
 
-  author: {
-    name: "minaXU",
-    url: "https://minaxu.github.io",
-  },
+  author: undefined,
 
   iconAssets: "fontawesome-with-brands",
 
