@@ -39,3 +39,6 @@ tag:
 
 #### 6. 接入搜索
 
+- 配置搜索[教程](https://theme-hope.vuejs.press/zh/guide/feature/search.html)
+
+#### 7.
