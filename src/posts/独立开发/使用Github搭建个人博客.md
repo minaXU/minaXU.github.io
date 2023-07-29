@@ -5,10 +5,19 @@ category:
 tag:
   - github
   - vue
-  - 独立开发
 ---
 
 # 使用Github搭建个人博客
+
+开发者需要经常学习新的知识，学完之后通过博客记录整理能对自己形成二次的提升，一直没有写太多博客其实是因为没有学习太多新知识了，希望后边能改善。
+
+在平台的选择上，主要是个人建站和使用网络平台（CSDN、掘金、博客园等）两中选择，考虑到网络平台的版面比较复杂，阅读体验并不好，另外自认为不是什么技术大牛，文章主要用来记录自己的技术成长，分享互动排名等是次要，因此决定自己建站，顺便可以感受下建站的全过程。
+
+建站最终方案：
+
+- 静态网站托管：github pages
+- 网站模版： [vuepress-theme-hope](https://theme-hope.vuejs.press/zh/)
+- 评论系统： Waline
 
 #### 1. 创建Github账号和仓库
 
@@ -30,6 +39,8 @@ tag:
 
 #### 4. 修改网站布局
 
+做了主题配置修改，包括移除导航中的菜单，让导航更清爽[guide](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)；侧边栏只留文章让网站尽量精简[guide](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)；接入了必应的home背景[guide](https://theme-hope.vuejs.press/zh/guide/advanced/presets.html#%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8);修改主题色、修改字体等；
+
 #### 5. 接入评论
 
 - 使用 Waline + LeanCloud + Vercel
@@ -39,6 +50,8 @@ tag:
 
 #### 6. 接入搜索
 
-- 配置搜索[教程](https://theme-hope.vuejs.press/zh/guide/feature/search.html)
+- [教程](https://theme-hope.vuejs.press/zh/guide/feature/search.html)
 
-#### 7.
+最终效果 [link](https://minaxu.github.io/)
+
+#### The end！！！

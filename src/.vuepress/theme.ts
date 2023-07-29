@@ -9,13 +9,13 @@ export default hopeTheme(
   {
     hostname: "https://minaxu.github.io",
 
-    author: undefined,
+    author: "minaXU",
 
     iconAssets: "fontawesome-with-brands",
 
     logo: "/logo.svg",
 
-    repo: "vuepress-theme-hope/vuepress-theme-hope",
+    repo: "minaXU/minaXU.github.io",
 
     docsDir: "src",
 
@@ -26,7 +26,7 @@ export default hopeTheme(
     // sidebar
     sidebar,
 
-    footer: "默认页脚",
+    footer: "Made by minaXU with ❤️",
 
     displayFooter: true,
 
@@ -44,14 +44,13 @@ export default hopeTheme(
       },
     },
 
-    // page meta
-    metaLocales: {
-      editLink: "在 GitHub 上编辑此页",
-    },
+    editLink: false,
+    contributors: false,
+    pageInfo: ["Date", "Tag", "Word", "PageView"],
 
     plugins: {
       blog: {
-        excerptLength: 200,
+        excerptLength: 150,
       },
       comment: {
         // You should generate and use your own comment service

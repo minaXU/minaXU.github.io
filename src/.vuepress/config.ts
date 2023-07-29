@@ -8,7 +8,6 @@ const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
-
   lang: "zh-CN",
   title: "minaXU 的博客",
   description: "vuepress-theme-hope 的博客演示",
@@ -18,9 +17,7 @@ export default defineUserConfig({
       "./components/BlogHero.vue"
     ),
   },
-
   theme,
-
   plugins: [
     searchProPlugin({
       // 索引全部内容
