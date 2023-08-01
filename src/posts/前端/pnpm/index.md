@@ -1,5 +1,6 @@
 ---
 date: 2023-07-31
+title: pnpm介绍
 category:
   - 前端
 tag:
