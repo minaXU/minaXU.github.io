@@ -9,7 +9,7 @@ export default hopeTheme(
   {
     hostname: "https://minaxu.github.io",
 
-    author: "minaXU",
+    author: undefined,
 
     iconAssets: "fontawesome-with-brands",
 
@@ -27,7 +27,7 @@ export default hopeTheme(
     sidebar,
 
     footer: "Made by minaXU with ❤️",
-
+    copyright: "Copyright © 2023 minaXU",
     displayFooter: true,
 
     blog: {
@@ -50,7 +50,8 @@ export default hopeTheme(
 
     plugins: {
       blog: {
-        excerptLength: 150,
+        excerpt: false,
+        // excerptLength: 150,
       },
       comment: {
         // You should generate and use your own comment service
