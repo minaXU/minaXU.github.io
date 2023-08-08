@@ -8,7 +8,8 @@ my github blog
 - ~~Monorepo~~
 - ~~npx使用~~
 - ~~vite使用介绍~~
-- vue3 对比 vue2 的提升
+- ~~vue3 对比 vue2 的提升~~
+- ~~Vue2  vite~~
 - Vue2 到 vue3迁移可操作性分析
 - volar使用介绍
 - 了解下这两年比较火的**svelte**框架
@@ -22,4 +23,8 @@ my github blog
 - 如何获得最新的前端资讯
 - rss订阅，订阅微博、twitter
 - 购买美区账户
+- Vue3模版 -> fant vue3   plus
+- 小程序体积 去class
+- 组件提示 插件
+- 需求墙
 
