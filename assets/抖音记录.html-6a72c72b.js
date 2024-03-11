@@ -1,1 +1,0 @@
-import{_ as t,o as _,c as a,a as e,b as c}from"./app-52fb65c9.js";const o={},s=e("h1",{id:"抖音记录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#抖音记录","aria-hidden":"true"},"#"),c(" 抖音记录")],-1),n=e("p",null,"8小时内求生存，8小时外求发展",-1),r=[s,n];function d(i,l){return _(),a("div",null,r)}const f=t(o,[["render",d],["__file","抖音记录.html.vue"]]);export{f as default};

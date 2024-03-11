@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a as e,b as s}from"./app-e12fe570.js";const c={},n=e("h1",{id:"介绍页",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍页","aria-hidden":"true"},"#"),s(" 介绍页")],-1),r=e("p",null,"一个小码农，做过ios开发，前端开发",-1),_=[n,r];function i(d,l){return o(),a("div",null,_)}const f=t(c,[["render",i],["__file","intro.html.vue"]]);export{f as default};
